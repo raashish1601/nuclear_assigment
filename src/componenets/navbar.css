@@ -1,0 +1,17 @@
+/* .feature {
+  margin-top: "20px";
+  margin-left: "25px";
+  font-size: "12px";
+  color: "gray";
+} */
+.navbar-container {
+  top: 0;
+  left: 0;
+  width: 163px;
+}
+.styling:hover {
+  background-color: #e6e6e6;
+  font-size: 15px;
+  transition: 0.2s ease-in;
+  font-weight: bolder;
+}
